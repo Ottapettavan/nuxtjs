@@ -1,5 +1,7 @@
 <template>
   <div>
-    <SHAH-MWOL />
+    <GitHub>
+      <Ottapettavan/>
+    </SHAH-MWOL>
   </div>
 </template>
