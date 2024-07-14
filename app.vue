@@ -1,6 +1,6 @@
 <template>
   <div>
-    <GitHub>
+    <vercel>
       <Ottapettavan/>
     </SHAH-MWOL>
   </div>
